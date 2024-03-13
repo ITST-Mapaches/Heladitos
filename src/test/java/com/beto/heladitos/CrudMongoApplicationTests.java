@@ -1,4 +1,4 @@
-package com.beto.CRUD_MONGO;
+package com.beto.heladitos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

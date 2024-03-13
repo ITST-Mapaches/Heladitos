@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.beto</groupId>
-	<artifactId>CRUD_MONGO</artifactId>
+	<artifactId>Heladitos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CRUD_MONGO</name>
 	<description>Demo project for Spring Boot</description>

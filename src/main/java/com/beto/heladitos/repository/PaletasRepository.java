@@ -1,6 +1,6 @@
-package com.beto.CRUD_MONGO.repository;
+package com.beto.heladitos.repository;
 
-import com.beto.CRUD_MONGO.documentos.Paletas;
+import com.beto.heladitos.documentos.Paletas;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 

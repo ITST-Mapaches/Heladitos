@@ -1,7 +1,7 @@
-package com.beto.CRUD_MONGO.controller;
+package com.beto.heladitos.controller;
 
-import com.beto.CRUD_MONGO.documentos.Paletas;
-import com.beto.CRUD_MONGO.repository.PaletasRepository;
+import com.beto.heladitos.documentos.Paletas;
+import com.beto.heladitos.repository.PaletasRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

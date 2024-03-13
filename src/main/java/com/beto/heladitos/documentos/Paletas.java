@@ -1,6 +1,5 @@
-package com.beto.CRUD_MONGO.documentos;
+package com.beto.heladitos.documentos;
 
-import com.fasterxml.jackson.databind.ObjectReader;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.bson.types.ObjectId;
